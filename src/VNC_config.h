@@ -28,12 +28,13 @@
 #define VNC_CONFIG_H_
 
 /// Display
+#ifndef VNC_ILI9341_ALT
 #define VNC_ILI9341
 #define VNC_ST7789
 
 // RA8875 not fully implemented
 //#define VNC_RA8875
-
+#endif
 
 /// TCP layer
 #define USE_ARDUINO_TCP
