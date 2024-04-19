@@ -3,6 +3,10 @@ VNC Client for Arduino [![Build Status](https://github.com/Links2004/arduinoVNC/
 
 a VNC Client for Arduino based on rfbproto.
 
+Video on CYD:
+
+https://youtube.com/shorts/mNtzkRHF74Q?feature=share
+
 Video:
 
 [![VNC Client on ESP8266 + ILI9341](https://img.youtube.com/vi/MA47npOtApc/0.jpg)](https://www.youtube.com/watch?v=MA47npOtApc)
