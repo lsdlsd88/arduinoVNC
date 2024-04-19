@@ -5,7 +5,8 @@ a VNC Client for Arduino based on rfbproto.
 
 Video on CYD:
 
-https://youtube.com/shorts/mNtzkRHF74Q?feature=share
+[![VNC Client on ESP32 + ILI9341](https://i.imgur.com/1IyoEDP.png)](https://www.youtube.com/watch?v=mNtzkRHF74Q)
+
 
 Video:
 
